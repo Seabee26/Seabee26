@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Navya Sibi!
 I'm currently doing my engineering in Electronics and Communication from Visvesvaraya National Institute of Technology, Nagpur.
-I'm a third year student with a current cgpa of 9.02.
+I'm a third year student with a current cgpa of 9.16.
 I'm a developer who is interested in Data Science and Machine Learning.
 - 🔭 I’m currently working on machine learning projects
 - 🌱 I’m currently learning website backend development
